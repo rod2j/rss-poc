@@ -2,31 +2,31 @@
 <rss version="2.0">
 <channel>
   <title>STUMP News</title>
-  <link>http://pad-st.cnamts.fr/pad-ddst/catalogue/products.html?product=stump&division=dait&active=undefined-docstumpdev&url=../fabricant/dait/stump/site/index.html</link>
+  <link>http://my.server.com/index.html</link>
   <description>Dernières nouvelle du starter-kit STUMP</description>
   <item>
     <title>Release 21.6</title>
-    <link>http://pad-st.cnamts.fr/pad-ddst/fabricant/dait/stump/site/stump/21.6.0/releasenote/releasenote-21-6-0.html</link>
+    <link>http://my.server.com/releasenote/releasenote-21-6-0.html</link>
     <description>Release Notes de la version 21.6 de Juin 2021</description>
   </item>
   <item>
     <title>Release 21.5</title>
-    <link>http://pad-st.cnamts.fr/pad-ddst/fabricant/dait/stump/site/stump/21.6.0/releasenote/releasenote-21-5-0.html</link>
+    <link>http://my.server.com/releasenote/releasenote-21-5-0.html</link>
     <description>Release Notes de la version 21.5 de Juin 2021</description>
   </item>
   <item>
     <title>Nouvel 'How-to' Écrire une doc en AsciiDoc</title>
-    <link>http://pad-st.cnamts.fr/pad-ddst/fabricant/dait/stump/site/stump/21.6.0/howto/quickStartAsciiDoc.html</link>
+    <link>http://my.server.com/howto/quickStartAsciiDoc.html</link>
     <description>Quick Start AsciiDoc</description>
   </item>
   <item>
     <title>Release 21.2</title>
-    <link>http://pad-st.cnamts.fr/pad-ddst/fabricant/dait/stump/site/stump/21.6.0/releasenote/releasenote-21-2-0.html</link>
+    <link>http://my.server.com/releasenote/releasenote-21-2-0.html</link>
     <description>Release Notes de la version 21.2 de Février 2021</description>
   </item>
   <item>
     <title>Release 21.1</title>
-    <link>http://pad-st.cnamts.fr/pad-ddst/fabricant/dait/stump/site/stump/21.6.0/releasenote/releasenote-21-1-0.html</link>
+    <link>http://my.server.com/releasenote/releasenote-21-1-0.html</link>
     <description>Release Notes de la version 21.1 de Janvier 2021</description>
   </item>
 </channel>
